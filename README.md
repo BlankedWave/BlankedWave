@@ -38,12 +38,21 @@ Here are some ideas to get you started:
       <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpmyadmin" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" alt="cmake" width="45" height="55"/>
-
+      <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/js_discord/js_discord-icon.svg" alt="discordjs" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="visualbasic" width="45" height="55"/>
+      <img src="url" alt="name" width="45" height="55"/>
+      <img src="url" alt="name" width="45" height="55"/>
+      <img src="url" alt="name" width="45" height="55"/>
 
       <img src="url" alt="name" width="45" height="55"/>
 </p>
