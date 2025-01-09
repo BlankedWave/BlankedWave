@@ -50,9 +50,9 @@ Here are some ideas to get you started:
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="visualbasic" width="45" height="55"/>
-      <img src="url" alt="name" width="45" height="55"/>
-      <img src="url" alt="name" width="45" height="55"/>
-      <img src="url" alt="name" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" alt="db2" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="wix" width="45" height="55"/>
 
       <img src="url" alt="name" width="45" height="55"/>
 </p>
