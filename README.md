@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ✨ **A tech enthusiast with a passion for learning!**<br>
 💻 **AI Graduate specializing in problem-solving, debugging, and creativity.**<br>
 🎥 **Video editing wizard and content creator.**<br>
-🎮 **Loves gaming, especially GTA 5, Forza Horizon 5, and Mobile Legends.**<br>
+🎮 **Loves gaming, especially Grand Theft Auto 5, Forza Horizon 5, and Mobile Legends.**<br>
 📫 **You can reach me by [clicking here](mailto:aqil2401@gmail.com).**<br><br>
 
 ## 🔧 Technologies & Tools
