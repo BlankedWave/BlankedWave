@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 
 [![Header](https://raw.githubusercontent.com/BlankedWave/BlankedWave/refs/heads/main/Readme%20Assets/Banner.jpg)](https://blankedwave.github.io/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+## 🌟 About Me 
 
-My name is Muhammad Aqil bin Ismail and my username is BlankedWave, and I'm a former web developer. I'm from Malaysia.
+✨ **A tech enthusiast with a passion for learning!**<br>
+💻 **AI Graduate specializing in problem-solving, debugging, and creativity.**<br>
+🎥 **Video editing wizard and content creator.**<br>
+🎮 **Loves gaming, especially GTA 5, Forza Horizon 5, and Mobile Legends**<br>
 
 ## 🔧 Technologies & Tools
 <p align="center">
