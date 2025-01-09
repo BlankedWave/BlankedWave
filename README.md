@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ✨ **A tech enthusiast with a passion for learning!**<br>
 💻 **AI Graduate specializing in problem-solving, debugging, and creativity.**<br>
 🎥 **Video editing wizard and content creator.**<br>
-🎮 **Loves gaming, especially GTA 5, Forza Horizon 5, and Mobile Legends**<br>
+🎮 **Loves gaming, especially GTA 5, Forza Horizon 5, and Mobile Legends**<br><br>
 
-<br><br>## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
