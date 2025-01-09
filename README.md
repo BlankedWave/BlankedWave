@@ -53,8 +53,28 @@ Here are some ideas to get you started:
       <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" alt="db2" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="wix" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-icon.svg" alt="curl" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-icon.svg" alt="ifttt" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="replit" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="rproject" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mit_scratch/mit_scratch-icon.svg" alt="scratch" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/balsamiq/balsamiq-icon.svg" alt="balsamiq" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/bracketsio/bracketsio-icon.svg" alt="brackets" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="packettracer" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="c++" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="45" height="55"/>
 
-      <img src="url" alt="name" width="45" height="55"/>
 </p>
 
 <!--🪳ROACH&🕷️SPIDER--> 
