@@ -38,9 +38,14 @@ Here are some ideas to get you started:
       <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpmyadmin" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" alt="cmake" width="45" height="55"/>
 
 
+      <img src="url" alt="name" width="45" height="55"/>
 </p>
 
 <!--🪳ROACH&🕷️SPIDER--> 
