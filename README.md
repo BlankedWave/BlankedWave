@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 -->
 
 [![Header](https://raw.githubusercontent.com/BlankedWave/BlankedWave/refs/heads/main/Readme%20Assets/Banner.jpg)](https://blankedwave.github.io/)
-</br>
+<br>
 ## 🌟 About Me 
 
 ✨ **A tech enthusiast with a passion for learning!**<br>
 💻 **AI Graduate specializing in problem-solving, debugging, and creativity.**<br>
 🎥 **Video editing wizard and content creator.**<br>
 🎮 **Loves gaming, especially GTA 5, Forza Horizon 5, and Mobile Legends**<br>
-</br>
+<br>
 ## 🔧 Technologies & Tools
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
