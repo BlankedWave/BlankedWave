@@ -74,6 +74,7 @@ Here are some ideas to get you started:
       <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="packettracer" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="c++" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="55"/>
 
 </p>
 
