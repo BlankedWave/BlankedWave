@@ -7,6 +7,13 @@
 </a>
 <br><br>
 
+<picture>
+  <!-- Dark theme (Ghouls) -->
+  <source media="(prefers-color-scheme: dark)" srcset="/LightDark/dark.png">
+  <!-- Light theme (Kaneki as Human) -->
+  <img alt="You are Human" src="/LightDark/light.png">
+</picture>
+
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
