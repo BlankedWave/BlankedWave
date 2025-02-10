@@ -92,6 +92,9 @@
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="55"/>
 
 </p>
+<!-- Snake Contributions -->
+
+![snake gif](https://github.com/BlankedWave/BlankedWave/blob/output/github-contribution-grid-snake.gif)
 
 <!--🪳ROACH&🕷️SPIDER--> 
 <p align="left">
