@@ -94,7 +94,7 @@
 </p>
 <!-- Snake Contributions -->
 
-![snake gif](https://github.com/BlankedWave/BlankedWave/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--🪳ROACH&🕷️SPIDER--> 
 <p align="left">
