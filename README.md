@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 
 [![Header](https://raw.githubusercontent.com/BlankedWave/BlankedWave/refs/heads/main/Readme%20Assets/Banner.jpg)](https://blankedwave.github.io/)<br><br>
 
+<div align="center">
+<a href="https://discord.com/users/267958390389604362"><img src="https://lanyard.cnrad.dev/api/267958390389604362?theme=dark&borderRadius=40px&bg=004B4B&idleMessage=In%20idle%20mode%E2%80%A6%20waiting%20for%20my%20code%20to%20debug%20itself." /></a>
+</div>
+
 ## 🌟 About Me 
 
 ✨ **A tech enthusiast with a passion for learning!**<br>
