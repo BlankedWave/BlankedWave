@@ -1,4 +1,12 @@
-[![Header](https://raw.githubusercontent.com/BlankedWave/BlankedWave/refs/heads/main/Readme%20Assets/Banner.jpg)](https://blankedwave.github.io/)<br><br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+BlankedWave!+🧑🏻‍💻;+Thanks+For+Visiting!+👋🏻;" />
+</h1>
+
+<a href="https://blankedwave.github.io/">
+  <img alt="Header" src="https://raw.githubusercontent.com/BlankedWave/BlankedWave/refs/heads/main/Readme%20Assets/Banner.jpg" />
+</a>
+<br><br>
+
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
@@ -94,8 +102,8 @@
 </p>
 
 <!-- Snake Contributions -->
-<div align="center">
 ## 🐍 Contributions Snake
+<div align="center">
 <img alt="Contribution Snake" src="https://github.com/BlankedWave/BlankedWave/blob/output/github-snake-dark.svg" />
 </div>
 
