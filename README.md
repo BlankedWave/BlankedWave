@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/BlankedWave/BlankedWave/refs/heads/main/Readme%20Assets/Banner.jpg)](https://blankedwave.github.io/)<br><br>
 
-<div align="center">
 ![](https://komarev.com/ghpvc/?username=blankedwave)
+<div align="center">
 <a href="https://discord.com/users/267958390389604362"><img src="https://lanyard.cnrad.dev/api/267958390389604362?theme=dark&borderRadius=40px&bg=004B4B&idleMessage=In%20power%20saving%20mode%E2%80%A6%20waiting%20for%20my%20code%20to%20debug%20itself." /></a>
 </div>
 
