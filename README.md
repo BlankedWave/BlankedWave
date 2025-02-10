@@ -1,10 +1,15 @@
 [![Header](https://raw.githubusercontent.com/BlankedWave/BlankedWave/refs/heads/main/Readme%20Assets/Banner.jpg)](https://blankedwave.github.io/)<br><br>
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
-<br>
+
+<div align=center>
+<h2>Visitor Count</h2>
+  
 ![Visitor Count](https://profile-counter.glitch.me/blankedwave/count.svg)
 
-![](https://komarev.com/ghpvc/?username=blankedwave)
+</div>
+<br><br>
+
 
 <div align="center">
   
