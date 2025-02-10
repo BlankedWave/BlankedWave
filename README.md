@@ -2,6 +2,7 @@
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
 <br>
+![Visitor Count](https://profile-counter.glitch.me/blankedwave/count.svg)
 
 ![](https://komarev.com/ghpvc/?username=blankedwave)
 <div align="center">
