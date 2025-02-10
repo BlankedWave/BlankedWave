@@ -6,17 +6,20 @@
 
 ![](https://komarev.com/ghpvc/?username=blankedwave)
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-   
-  <a href="https://discord.com/users/267958390389604362">
-    <img src="https://lanyard.cnrad.dev/api/267958390389604362?theme=dark&borderRadius=40px&bg=004B4B&idleMessage=In%20power%20saving%20mode%E2%80%A6%20waiting%20for%20my%20code%20to%20debug%20itself." />
-  </a>
- 
+<div align="center">
+  
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=aqil2401&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=aqil2401&cover_image=true&theme=default&show_offline=true&background_color=004b4b&interchange=true&bar_color=454545&bar_color_cover=true" />
   </a>
+  
+  <a href="https://discord.com/users/267958390389604362">
+    <img src="https://lanyard.cnrad.dev/api/267958390389604362?theme=dark&borderRadius=40px&bg=004B4B&idleMessage=In%20power%20saving%20mode%E2%80%A6%20waiting%20for%20my%20code%20to%20debug%20itself." />
+  </a>
 
 </div>
+
+
+
 
 
 
