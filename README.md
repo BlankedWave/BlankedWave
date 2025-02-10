@@ -7,13 +7,29 @@
 </a>
 <br><br>
 
-<picture>
-  <!-- Dark theme (Ghouls) -->
-  <source media="(prefers-color-scheme: dark)" srcset="/LightDark/dark.png">
-  <!-- Light theme (Kaneki as Human) -->
-  <img alt="You are Human" src="/LightDark/light.png">
-</picture>
+<p align="center">
+  <picture>
+    <!-- Dark theme (Ghouls) -->
+    <source media="(prefers-color-scheme: dark)" srcset="/LightDark/dark.png">
+    <!-- Light theme (Kaneki as Human) -->
+    <img alt="You are Human" src="/LightDark/light.png">
+  </picture>
+</p>
 
+<p align="center">
+  I see that you are a
+</p>
+
+<p align="center">
+  <picture>
+    <!-- Dark theme (Ghouls) -->
+    <source media="(prefers-color-scheme: dark)" srcset="/LightDark/ghoul.png">
+    <!-- Light theme (Kaneki as Human) -->
+    <img alt="You are Human" src="/LightDark/human.png">
+  </picture>
+</p>
+
+<br>
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
