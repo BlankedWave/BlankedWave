@@ -33,12 +33,8 @@
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
-<div align=center>
-<h2>🔭 Visitor Count</h2>
-  
-![Visitor Count](https://profile-counter.glitch.me/blankedwave/count.svg)
 
-</div>
+
 <br><br>
 
 
