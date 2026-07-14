@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=00A4A4FF&width=500&height=70&duration=4000&lines=Hi,+I'm+BlankedWave!+🧑🏻‍💻;+Thanks+For+Visiting!+👋🏻;" />
 </h1>
 
-<a href="https://blankedwave.github.io/">
+<a href="https://resume.blankedwave.name.my/">
   <img alt="Header" src="https://raw.githubusercontent.com/BlankedWave/BlankedWave/refs/heads/main/Readme%20Assets/Banner.jpg" />
 </a>
 <br><br>
